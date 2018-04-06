@@ -15,6 +15,7 @@ public class blackjack {
 		
 		g.Gamer();
 		d.Dealer();
+		d.Dealer();
 		
 
 	}
